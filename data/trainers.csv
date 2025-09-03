@@ -1,0 +1,5 @@
+trainer,day,start,end,max_daily_hours
+T1,Mon,08:30,12:00,4
+T2,Mon,09:00,12:00,3
+T1,Tue,12:30,16:00,4
+T3,Tue,13:00,16:00,3
